@@ -1,0 +1,955 @@
+2024-04-01 19:54:23,514 =======================================================================
+2024-04-01 19:54:23,515                        VMware / Virtual Health                         
+2024-04-01 19:54:23,515 =======================================================================
+2024-04-01 19:54:23,565 Workload: LG01-WL01-V10-101 MAC address: 00:50:56:b6:fc:50 connected state True.
+2024-04-01 19:54:23,575 Workload: LG01-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9548'.
+2024-04-01 19:54:23,575 Workload: LG01-WL01-V10-101 MAC address: 00:50:56:b6:5c:a6 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:23,581 Workload: LG01-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9548'.
+2024-04-01 19:54:23,623 Workload: LG01-WL02-V10-102 MAC address: 00:50:56:b6:16:bd connected state True.
+2024-04-01 19:54:23,634 Workload: LG01-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9549'.
+2024-04-01 19:54:23,634 Workload: LG01-WL02-V10-102 MAC address: 00:50:56:b6:47:6f IS NOT CONNECTED!!!!.
+2024-04-01 19:54:23,641 Workload: LG01-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9549'.
+2024-04-01 19:54:23,679 Workload: LG01-WL03-V20-101 MAC address: 00:50:56:b6:3f:03 connected state True.
+2024-04-01 19:54:23,686 Workload: LG01-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9550'.
+2024-04-01 19:54:23,686 Workload: LG01-WL03-V20-101 MAC address: 00:50:56:b6:be:56 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:23,691 Workload: LG01-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9550'.
+2024-04-01 19:54:23,827 Workload: LG02-WL01-V10-101 MAC address: 00:50:56:b6:5f:1b connected state True.
+2024-04-01 19:54:23,839 Workload: LG02-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9521'.
+2024-04-01 19:54:23,839 Workload: LG02-WL01-V10-101 MAC address: 00:50:56:b6:8e:56 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:23,847 Workload: LG02-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9521'.
+2024-04-01 19:54:23,955 Workload: LG02-WL02-V10-102 MAC address: 00:50:56:b6:2d:4c connected state True.
+2024-04-01 19:54:23,961 Workload: LG02-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9522'.
+2024-04-01 19:54:23,962 Workload: LG02-WL02-V10-102 MAC address: 00:50:56:b6:3b:ef IS NOT CONNECTED!!!!.
+2024-04-01 19:54:23,967 Workload: LG02-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9522'.
+2024-04-01 19:54:24,060 Workload: LG02-WL03-V20-101 MAC address: 00:50:56:b6:44:ce connected state True.
+2024-04-01 19:54:24,067 Workload: LG02-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9523'.
+2024-04-01 19:54:24,068 Workload: LG02-WL03-V20-101 MAC address: 00:50:56:b6:21:4f IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,075 Workload: LG02-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9523'.
+2024-04-01 19:54:24,153 Workload: LG03-WL01-V10-101 MAC address: 00:50:56:b6:5a:bb connected state True.
+2024-04-01 19:54:24,158 Workload: LG03-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9524'.
+2024-04-01 19:54:24,159 Workload: LG03-WL01-V10-101 MAC address: 00:50:56:b6:73:ee IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,167 Workload: LG03-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9524'.
+2024-04-01 19:54:24,250 Workload: LG03-WL02-V10-102 MAC address: 00:50:56:b6:c7:45 connected state True.
+2024-04-01 19:54:24,261 Workload: LG03-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9525'.
+2024-04-01 19:54:24,262 Workload: LG03-WL02-V10-102 MAC address: 00:50:56:b6:8d:06 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,273 Workload: LG03-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9525'.
+2024-04-01 19:54:24,436 Workload: LG03-WL03-V20-101 MAC address: 00:50:56:b6:8c:5f connected state True.
+2024-04-01 19:54:24,446 Workload: LG03-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9526'.
+2024-04-01 19:54:24,447 Workload: LG03-WL03-V20-101 MAC address: 00:50:56:b6:f5:e2 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,458 Workload: LG03-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9526'.
+2024-04-01 19:54:24,491 Workload: LG04-WL01-V10-101 MAC address: 00:50:56:b6:b3:01 connected state True.
+2024-04-01 19:54:24,497 Workload: LG04-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9527'.
+2024-04-01 19:54:24,498 Workload: LG04-WL01-V10-101 MAC address: 00:50:56:b6:10:dc IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,503 Workload: LG04-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9527'.
+2024-04-01 19:54:24,531 Workload: LG04-WL02-V10-102 MAC address: 00:50:56:b6:56:ea connected state True.
+2024-04-01 19:54:24,536 Workload: LG04-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9528'.
+2024-04-01 19:54:24,537 Workload: LG04-WL02-V10-102 MAC address: 00:50:56:b6:10:90 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,542 Workload: LG04-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9528'.
+2024-04-01 19:54:24,565 Workload: LG04-WL03-V20-101 MAC address: 00:50:56:b6:36:94 connected state True.
+2024-04-01 19:54:24,572 Workload: LG04-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9529'.
+2024-04-01 19:54:24,572 Workload: LG04-WL03-V20-101 MAC address: 00:50:56:b6:0b:0e IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,577 Workload: LG04-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9529'.
+2024-04-01 19:54:24,597 Workload: LG05-WL01-V10-101 MAC address: 00:50:56:b6:25:51 connected state True.
+2024-04-01 19:54:24,603 Workload: LG05-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9530'.
+2024-04-01 19:54:24,604 Workload: LG05-WL01-V10-101 MAC address: 00:50:56:b6:90:5a IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,611 Workload: LG05-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9530'.
+2024-04-01 19:54:24,634 Workload: LG05-WL02-V10-102 MAC address: 00:50:56:b6:01:ee connected state True.
+2024-04-01 19:54:24,640 Workload: LG05-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9531'.
+2024-04-01 19:54:24,640 Workload: LG05-WL02-V10-102 MAC address: 00:50:56:b6:f9:0f IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,646 Workload: LG05-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9531'.
+2024-04-01 19:54:24,673 Workload: LG05-WL03-V20-101 MAC address: 00:50:56:b6:41:36 connected state True.
+2024-04-01 19:54:24,680 Workload: LG05-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9532'.
+2024-04-01 19:54:24,680 Workload: LG05-WL03-V20-101 MAC address: 00:50:56:b6:e3:fc IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,689 Workload: LG05-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9532'.
+2024-04-01 19:54:24,769 Workload: LG06-WL01-V10-101 MAC address: 00:50:56:b6:19:76 connected state True.
+2024-04-01 19:54:24,777 Workload: LG06-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9533'.
+2024-04-01 19:54:24,777 Workload: LG06-WL01-V10-101 MAC address: 00:50:56:b6:dc:10 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,784 Workload: LG06-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9533'.
+2024-04-01 19:54:24,840 Workload: LG06-WL02-V10-102 MAC address: 00:50:56:b6:72:7f connected state True.
+2024-04-01 19:54:24,846 Workload: LG06-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9534'.
+2024-04-01 19:54:24,846 Workload: LG06-WL02-V10-102 MAC address: 00:50:56:b6:4c:f0 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,852 Workload: LG06-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9534'.
+2024-04-01 19:54:24,908 Workload: LG06-WL03-V20-101 MAC address: 00:50:56:b6:97:fe connected state True.
+2024-04-01 19:54:24,914 Workload: LG06-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9535'.
+2024-04-01 19:54:24,914 Workload: LG06-WL03-V20-101 MAC address: 00:50:56:b6:5b:f5 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,919 Workload: LG06-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9535'.
+2024-04-01 19:54:24,963 Workload: LG07-WL01-V10-101 MAC address: 00:50:56:b6:de:88 connected state True.
+2024-04-01 19:54:24,969 Workload: LG07-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9536'.
+2024-04-01 19:54:24,969 Workload: LG07-WL01-V10-101 MAC address: 00:50:56:b6:19:35 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:24,974 Workload: LG07-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9536'.
+2024-04-01 19:54:25,020 Workload: LG07-WL02-V10-102 MAC address: 00:50:56:b6:61:31 connected state True.
+2024-04-01 19:54:25,026 Workload: LG07-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9537'.
+2024-04-01 19:54:25,026 Workload: LG07-WL02-V10-102 MAC address: 00:50:56:b6:46:8a IS NOT CONNECTED!!!!.
+2024-04-01 19:54:25,031 Workload: LG07-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9537'.
+2024-04-01 19:54:25,074 Workload: LG07-WL03-V20-101 MAC address: 00:50:56:b6:ea:73 connected state True.
+2024-04-01 19:54:25,080 Workload: LG07-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9538'.
+2024-04-01 19:54:25,080 Workload: LG07-WL03-V20-101 MAC address: 00:50:56:b6:ef:3a IS NOT CONNECTED!!!!.
+2024-04-01 19:54:25,086 Workload: LG07-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9538'.
+2024-04-01 19:54:25,166 Workload: LG08-WL01-V10-101 MAC address: 00:50:56:b6:c7:b3 connected state True.
+2024-04-01 19:54:25,172 Workload: LG08-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9539'.
+2024-04-01 19:54:25,172 Workload: LG08-WL01-V10-101 MAC address: 00:50:56:b6:ac:ac IS NOT CONNECTED!!!!.
+2024-04-01 19:54:25,179 Workload: LG08-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9539'.
+2024-04-01 19:54:25,253 Workload: LG08-WL02-V10-102 MAC address: 00:50:56:b6:4b:19 connected state True.
+2024-04-01 19:54:25,261 Workload: LG08-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9540'.
+2024-04-01 19:54:25,261 Workload: LG08-WL02-V10-102 MAC address: 00:50:56:b6:c1:78 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:25,267 Workload: LG08-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9540'.
+2024-04-01 19:54:25,345 Workload: LG08-WL03-V20-101 MAC address: 00:50:56:b6:ae:72 connected state True.
+2024-04-01 19:54:25,351 Workload: LG08-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9541'.
+2024-04-01 19:54:25,351 Workload: LG08-WL03-V20-101 MAC address: 00:50:56:b6:7a:2d IS NOT CONNECTED!!!!.
+2024-04-01 19:54:25,358 Workload: LG08-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9541'.
+2024-04-01 19:54:25,438 Workload: LG09-WL01-V10-101 MAC address: 00:50:56:b6:0b:d0 connected state True.
+2024-04-01 19:54:25,443 Workload: LG09-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9542'.
+2024-04-01 19:54:25,443 Workload: LG09-WL01-V10-101 MAC address: 00:50:56:b6:6a:c8 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:25,449 Workload: LG09-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9542'.
+2024-04-01 19:54:25,533 Workload: LG09-WL02-V10-102 MAC address: 00:50:56:b6:5b:ee connected state True.
+2024-04-01 19:54:25,539 Workload: LG09-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9543'.
+2024-04-01 19:54:25,539 Workload: LG09-WL02-V10-102 MAC address: 00:50:56:b6:29:33 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:25,546 Workload: LG09-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9543'.
+2024-04-01 19:54:25,623 Workload: LG09-WL03-V20-101 MAC address: 00:50:56:b6:98:a6 connected state True.
+2024-04-01 19:54:25,628 Workload: LG09-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9544'.
+2024-04-01 19:54:25,629 Workload: LG09-WL03-V20-101 MAC address: 00:50:56:b6:30:5e IS NOT CONNECTED!!!!.
+2024-04-01 19:54:25,634 Workload: LG09-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9544'.
+2024-04-01 19:54:25,670 Workload: LG10-WL01-V10-101 MAC address: 00:50:56:b6:d2:b0 connected state True.
+2024-04-01 19:54:25,674 Workload: LG10-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9545'.
+2024-04-01 19:54:25,675 Workload: LG10-WL01-V10-101 MAC address: 00:50:56:b6:99:9f IS NOT CONNECTED!!!!.
+2024-04-01 19:54:25,679 Workload: LG10-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9545'.
+2024-04-01 19:54:25,719 Workload: LG10-WL02-V10-102 MAC address: 00:50:56:b6:b1:16 connected state True.
+2024-04-01 19:54:25,724 Workload: LG10-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9546'.
+2024-04-01 19:54:25,724 Workload: LG10-WL02-V10-102 MAC address: 00:50:56:b6:28:b1 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:25,729 Workload: LG10-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9546'.
+2024-04-01 19:54:25,770 Workload: LG10-WL03-V20-101 MAC address: 00:50:56:b6:71:63 connected state True.
+2024-04-01 19:54:25,775 Workload: LG10-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9547'.
+2024-04-01 19:54:25,775 Workload: LG10-WL03-V20-101 MAC address: 00:50:56:b6:aa:f3 IS NOT CONNECTED!!!!.
+2024-04-01 19:54:25,780 Workload: LG10-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9547'.
+2024-04-01 19:54:25,780 =======================================================================
+2024-04-01 19:54:25,780             VMware / Distributed Virtual Switches                        
+2024-04-01 19:54:25,780 ======================================================================
+2024-04-01 19:54:25,795 Distributed Virtual Switch has been found: LG01-dvs-1.
+2024-04-01 19:54:25,807 Distributed Virtual Switch has been found: LG01-dvs-2.
+2024-04-01 19:54:25,818 Distributed Virtual Switch has been found: LG02-dvs-1.
+2024-04-01 19:54:25,828 Distributed Virtual Switch has been found: LG02-dvs-2.
+2024-04-01 19:54:25,842 Distributed Virtual Switch has been found: LG03-dvs-1.
+2024-04-01 19:54:25,851 Distributed Virtual Switch has been found: LG03-dvs-2.
+2024-04-01 19:54:25,858 Distributed Virtual Switch has been found: LG04-dvs-1.
+2024-04-01 19:54:25,863 Distributed Virtual Switch has been found: LG04-dvs-2.
+2024-04-01 19:54:25,888 Distributed Virtual Switch has been found: LG05-dvs-1.
+2024-04-01 19:54:25,912 Distributed Virtual Switch has been found: LG05-dvs-2.
+2024-04-01 19:54:25,931 Distributed Virtual Switch has been found: LG06-dvs-1.
+2024-04-01 19:54:25,949 Distributed Virtual Switch has been found: LG06-dvs-2.
+2024-04-01 19:54:25,973 Distributed Virtual Switch has been found: LG07-dvs-1.
+2024-04-01 19:54:25,996 Distributed Virtual Switch has been found: LG07-dvs-2.
+2024-04-01 19:54:26,033 Distributed Virtual Switch has been found: LG08-dvs-1.
+2024-04-01 19:54:26,051 Distributed Virtual Switch has been found: LG08-dvs-2.
+2024-04-01 19:54:26,081 Distributed Virtual Switch has been found: LG09-dvs-1.
+2024-04-01 19:54:26,103 Distributed Virtual Switch has been found: LG09-dvs-2.
+2024-04-01 19:54:26,132 Distributed Virtual Switch has been found: LG10-dvs-1.
+2024-04-01 19:54:26,164 Distributed Virtual Switch has been found: LG10-dvs-2.
+2024-04-01 19:54:26,164 =======================================================================
+2024-04-01 19:54:26,201 Workload: LG01-AFC MAC address: 00:50:56:b6:d2:0b connected state True.
+2024-04-01 19:54:26,207 Workload: LG01-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5910'.
+2024-04-01 19:54:26,295 Workload: LG02-AFC MAC address: 00:50:56:b6:d2:d1 connected state True.
+2024-04-01 19:54:26,300 Workload: LG02-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5911'.
+2024-04-01 19:54:26,362 Workload: LG03-AFC MAC address: 00:50:56:b6:d1:7b connected state True.
+2024-04-01 19:54:26,368 Workload: LG03-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5912'.
+2024-04-01 19:54:26,392 Workload: LG04-AFC MAC address: 00:50:56:b6:93:b0 connected state True.
+2024-04-01 19:54:26,398 Workload: LG04-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5913'.
+2024-04-01 19:54:26,417 Workload: LG05-AFC MAC address: 00:50:56:b6:73:77 connected state True.
+2024-04-01 19:54:26,423 Workload: LG05-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5914'.
+2024-04-01 19:54:26,497 Workload: LG06-AFC MAC address: 00:50:56:b6:94:51 connected state True.
+2024-04-01 19:54:26,503 Workload: LG06-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5915'.
+2024-04-01 19:54:26,552 Workload: LG07-AFC MAC address: 00:50:56:b6:a5:08 connected state True.
+2024-04-01 19:54:26,557 Workload: LG07-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5916'.
+2024-04-01 19:54:26,626 Workload: LG08-AFC MAC address: 00:50:56:b6:a2:1b connected state True.
+2024-04-01 19:54:26,632 Workload: LG08-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5917'.
+2024-04-01 19:54:26,727 Workload: LG09-AFC MAC address: 00:50:56:b6:e2:48 connected state True.
+2024-04-01 19:54:26,733 Workload: LG09-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5918'.
+2024-04-01 19:54:26,781 Workload: LG10-AFC MAC address: 00:50:56:b6:87:96 connected state True.
+2024-04-01 19:54:26,786 Workload: LG10-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5919'.
+2024-04-01 19:54:26,786 automation has detected 10 AFC workloads!.
+2024-04-01 19:54:26,786 =======================================================================
+2024-04-01 19:54:26,816 Workload: LG01-PSM MAC address: 00:50:56:b6:c1:77 connected state True.
+2024-04-01 19:54:26,822 Workload: LG01-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3625'.
+2024-04-01 19:54:26,920 Workload: LG02-PSM MAC address: 00:50:56:b6:0d:f1 connected state True.
+2024-04-01 19:54:26,934 Workload: LG02-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3607'.
+2024-04-01 19:54:27,045 Workload: LG03-PSM MAC address: 00:50:56:b6:70:21 connected state True.
+2024-04-01 19:54:27,054 Workload: LG03-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3609'.
+2024-04-01 19:54:27,082 Workload: LG04-PSM MAC address: 00:50:56:b6:77:81 connected state True.
+2024-04-01 19:54:27,088 Workload: LG04-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3611'.
+2024-04-01 19:54:27,108 Workload: LG05-PSM MAC address: 00:50:56:b6:56:b3 connected state True.
+2024-04-01 19:54:27,115 Workload: LG05-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3614'.
+2024-04-01 19:54:27,172 Workload: LG06-PSM MAC address: 00:50:56:b6:9d:39 connected state True.
+2024-04-01 19:54:27,178 Workload: LG06-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3615'.
+2024-04-01 19:54:27,244 Workload: LG07-PSM MAC address: 00:50:56:b6:99:e3 connected state True.
+2024-04-01 19:54:27,250 Workload: LG07-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3617'.
+2024-04-01 19:54:27,337 Workload: LG08-PSM MAC address: 00:50:56:b6:c2:d0 connected state True.
+2024-04-01 19:54:27,343 Workload: LG08-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3619'.
+2024-04-01 19:54:27,415 Workload: LG09-PSM MAC address: 00:50:56:b6:20:59 connected state True.
+2024-04-01 19:54:27,420 Workload: LG09-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3621'.
+2024-04-01 19:54:27,461 Workload: LG10-PSM MAC address: 00:50:56:b6:aa:8b connected state True.
+2024-04-01 19:54:27,466 Workload: LG10-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3623'.
+2024-04-01 19:54:27,466 automation has detected 10 psm workloads!.
+2024-04-01 19:54:27,466 =======================================================================
+2024-04-01 20:07:07,905 =======================================================================
+2024-04-01 20:07:07,905                        VMware / Virtual Health                         
+2024-04-01 20:07:07,905 =======================================================================
+2024-04-01 20:07:07,943 Workload: LG01-WL01-V10-101 MAC address: 00:50:56:b6:fc:50 connected state True.
+2024-04-01 20:07:07,951 Workload: LG01-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9548'.
+2024-04-01 20:07:07,951 Workload: LG01-WL01-V10-101 MAC address: 00:50:56:b6:5c:a6 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:07,956 Workload: LG01-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9548'.
+2024-04-01 20:07:07,995 Workload: LG01-WL02-V10-102 MAC address: 00:50:56:b6:16:bd connected state True.
+2024-04-01 20:07:08,002 Workload: LG01-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9549'.
+2024-04-01 20:07:08,004 Workload: LG01-WL02-V10-102 MAC address: 00:50:56:b6:47:6f IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,016 Workload: LG01-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9549'.
+2024-04-01 20:07:08,078 Workload: LG01-WL03-V20-101 MAC address: 00:50:56:b6:3f:03 connected state True.
+2024-04-01 20:07:08,084 Workload: LG01-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9550'.
+2024-04-01 20:07:08,084 Workload: LG01-WL03-V20-101 MAC address: 00:50:56:b6:be:56 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,091 Workload: LG01-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9550'.
+2024-04-01 20:07:08,191 Workload: LG02-WL01-V10-101 MAC address: 00:50:56:b6:5f:1b connected state True.
+2024-04-01 20:07:08,197 Workload: LG02-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9521'.
+2024-04-01 20:07:08,200 Workload: LG02-WL01-V10-101 MAC address: 00:50:56:b6:8e:56 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,207 Workload: LG02-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9521'.
+2024-04-01 20:07:08,297 Workload: LG02-WL02-V10-102 MAC address: 00:50:56:b6:2d:4c connected state True.
+2024-04-01 20:07:08,305 Workload: LG02-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9522'.
+2024-04-01 20:07:08,306 Workload: LG02-WL02-V10-102 MAC address: 00:50:56:b6:3b:ef IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,311 Workload: LG02-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9522'.
+2024-04-01 20:07:08,419 Workload: LG02-WL03-V20-101 MAC address: 00:50:56:b6:44:ce connected state True.
+2024-04-01 20:07:08,424 Workload: LG02-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9523'.
+2024-04-01 20:07:08,425 Workload: LG02-WL03-V20-101 MAC address: 00:50:56:b6:21:4f IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,431 Workload: LG02-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9523'.
+2024-04-01 20:07:08,491 Workload: LG03-WL01-V10-101 MAC address: 00:50:56:b6:5a:bb connected state True.
+2024-04-01 20:07:08,497 Workload: LG03-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9524'.
+2024-04-01 20:07:08,498 Workload: LG03-WL01-V10-101 MAC address: 00:50:56:b6:73:ee IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,504 Workload: LG03-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9524'.
+2024-04-01 20:07:08,576 Workload: LG03-WL02-V10-102 MAC address: 00:50:56:b6:c7:45 connected state True.
+2024-04-01 20:07:08,586 Workload: LG03-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9525'.
+2024-04-01 20:07:08,587 Workload: LG03-WL02-V10-102 MAC address: 00:50:56:b6:8d:06 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,597 Workload: LG03-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9525'.
+2024-04-01 20:07:08,666 Workload: LG03-WL03-V20-101 MAC address: 00:50:56:b6:8c:5f connected state True.
+2024-04-01 20:07:08,674 Workload: LG03-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9526'.
+2024-04-01 20:07:08,675 Workload: LG03-WL03-V20-101 MAC address: 00:50:56:b6:f5:e2 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,682 Workload: LG03-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9526'.
+2024-04-01 20:07:08,716 Workload: LG04-WL01-V10-101 MAC address: 00:50:56:b6:b3:01 connected state True.
+2024-04-01 20:07:08,723 Workload: LG04-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9527'.
+2024-04-01 20:07:08,724 Workload: LG04-WL01-V10-101 MAC address: 00:50:56:b6:10:dc IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,731 Workload: LG04-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9527'.
+2024-04-01 20:07:08,760 Workload: LG04-WL02-V10-102 MAC address: 00:50:56:b6:56:ea connected state True.
+2024-04-01 20:07:08,767 Workload: LG04-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9528'.
+2024-04-01 20:07:08,768 Workload: LG04-WL02-V10-102 MAC address: 00:50:56:b6:10:90 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,776 Workload: LG04-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9528'.
+2024-04-01 20:07:08,801 Workload: LG04-WL03-V20-101 MAC address: 00:50:56:b6:36:94 connected state True.
+2024-04-01 20:07:08,810 Workload: LG04-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9529'.
+2024-04-01 20:07:08,811 Workload: LG04-WL03-V20-101 MAC address: 00:50:56:b6:0b:0e IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,823 Workload: LG04-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9529'.
+2024-04-01 20:07:08,848 Workload: LG05-WL01-V10-101 MAC address: 00:50:56:b6:25:51 connected state True.
+2024-04-01 20:07:08,856 Workload: LG05-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9530'.
+2024-04-01 20:07:08,856 Workload: LG05-WL01-V10-101 MAC address: 00:50:56:b6:90:5a IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,864 Workload: LG05-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9530'.
+2024-04-01 20:07:08,885 Workload: LG05-WL02-V10-102 MAC address: 00:50:56:b6:01:ee connected state True.
+2024-04-01 20:07:08,894 Workload: LG05-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9531'.
+2024-04-01 20:07:08,894 Workload: LG05-WL02-V10-102 MAC address: 00:50:56:b6:f9:0f IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,903 Workload: LG05-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9531'.
+2024-04-01 20:07:08,929 Workload: LG05-WL03-V20-101 MAC address: 00:50:56:b6:41:36 connected state True.
+2024-04-01 20:07:08,936 Workload: LG05-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9532'.
+2024-04-01 20:07:08,937 Workload: LG05-WL03-V20-101 MAC address: 00:50:56:b6:e3:fc IS NOT CONNECTED!!!!.
+2024-04-01 20:07:08,945 Workload: LG05-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9532'.
+2024-04-01 20:07:09,012 Workload: LG06-WL01-V10-101 MAC address: 00:50:56:b6:19:76 connected state True.
+2024-04-01 20:07:09,019 Workload: LG06-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9533'.
+2024-04-01 20:07:09,020 Workload: LG06-WL01-V10-101 MAC address: 00:50:56:b6:dc:10 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:09,026 Workload: LG06-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9533'.
+2024-04-01 20:07:09,100 Workload: LG06-WL02-V10-102 MAC address: 00:50:56:b6:72:7f connected state True.
+2024-04-01 20:07:09,107 Workload: LG06-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9534'.
+2024-04-01 20:07:09,109 Workload: LG06-WL02-V10-102 MAC address: 00:50:56:b6:4c:f0 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:09,116 Workload: LG06-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9534'.
+2024-04-01 20:07:09,184 Workload: LG06-WL03-V20-101 MAC address: 00:50:56:b6:97:fe connected state True.
+2024-04-01 20:07:09,190 Workload: LG06-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9535'.
+2024-04-01 20:07:09,191 Workload: LG06-WL03-V20-101 MAC address: 00:50:56:b6:5b:f5 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:09,197 Workload: LG06-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9535'.
+2024-04-01 20:07:09,249 Workload: LG07-WL01-V10-101 MAC address: 00:50:56:b6:de:88 connected state True.
+2024-04-01 20:07:09,256 Workload: LG07-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9536'.
+2024-04-01 20:07:09,257 Workload: LG07-WL01-V10-101 MAC address: 00:50:56:b6:19:35 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:09,265 Workload: LG07-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9536'.
+2024-04-01 20:07:09,328 Workload: LG07-WL02-V10-102 MAC address: 00:50:56:b6:61:31 connected state True.
+2024-04-01 20:07:09,336 Workload: LG07-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9537'.
+2024-04-01 20:07:09,336 Workload: LG07-WL02-V10-102 MAC address: 00:50:56:b6:46:8a IS NOT CONNECTED!!!!.
+2024-04-01 20:07:09,343 Workload: LG07-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9537'.
+2024-04-01 20:07:09,392 Workload: LG07-WL03-V20-101 MAC address: 00:50:56:b6:ea:73 connected state True.
+2024-04-01 20:07:09,399 Workload: LG07-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9538'.
+2024-04-01 20:07:09,399 Workload: LG07-WL03-V20-101 MAC address: 00:50:56:b6:ef:3a IS NOT CONNECTED!!!!.
+2024-04-01 20:07:09,406 Workload: LG07-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9538'.
+2024-04-01 20:07:09,506 Workload: LG08-WL01-V10-101 MAC address: 00:50:56:b6:c7:b3 connected state True.
+2024-04-01 20:07:09,525 Workload: LG08-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9539'.
+2024-04-01 20:07:09,527 Workload: LG08-WL01-V10-101 MAC address: 00:50:56:b6:ac:ac IS NOT CONNECTED!!!!.
+2024-04-01 20:07:09,539 Workload: LG08-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9539'.
+2024-04-01 20:07:09,661 Workload: LG08-WL02-V10-102 MAC address: 00:50:56:b6:4b:19 connected state True.
+2024-04-01 20:07:09,667 Workload: LG08-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9540'.
+2024-04-01 20:07:09,668 Workload: LG08-WL02-V10-102 MAC address: 00:50:56:b6:c1:78 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:09,674 Workload: LG08-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9540'.
+2024-04-01 20:07:09,761 Workload: LG08-WL03-V20-101 MAC address: 00:50:56:b6:ae:72 connected state True.
+2024-04-01 20:07:09,767 Workload: LG08-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9541'.
+2024-04-01 20:07:09,767 Workload: LG08-WL03-V20-101 MAC address: 00:50:56:b6:7a:2d IS NOT CONNECTED!!!!.
+2024-04-01 20:07:09,772 Workload: LG08-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9541'.
+2024-04-01 20:07:09,850 Workload: LG09-WL01-V10-101 MAC address: 00:50:56:b6:0b:d0 connected state True.
+2024-04-01 20:07:09,857 Workload: LG09-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9542'.
+2024-04-01 20:07:09,857 Workload: LG09-WL01-V10-101 MAC address: 00:50:56:b6:6a:c8 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:09,864 Workload: LG09-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9542'.
+2024-04-01 20:07:09,943 Workload: LG09-WL02-V10-102 MAC address: 00:50:56:b6:5b:ee connected state True.
+2024-04-01 20:07:09,949 Workload: LG09-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9543'.
+2024-04-01 20:07:09,950 Workload: LG09-WL02-V10-102 MAC address: 00:50:56:b6:29:33 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:09,956 Workload: LG09-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9543'.
+2024-04-01 20:07:10,032 Workload: LG09-WL03-V20-101 MAC address: 00:50:56:b6:98:a6 connected state True.
+2024-04-01 20:07:10,039 Workload: LG09-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9544'.
+2024-04-01 20:07:10,040 Workload: LG09-WL03-V20-101 MAC address: 00:50:56:b6:30:5e IS NOT CONNECTED!!!!.
+2024-04-01 20:07:10,047 Workload: LG09-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9544'.
+2024-04-01 20:07:10,084 Workload: LG10-WL01-V10-101 MAC address: 00:50:56:b6:d2:b0 connected state True.
+2024-04-01 20:07:10,090 Workload: LG10-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9545'.
+2024-04-01 20:07:10,090 Workload: LG10-WL01-V10-101 MAC address: 00:50:56:b6:99:9f IS NOT CONNECTED!!!!.
+2024-04-01 20:07:10,096 Workload: LG10-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9545'.
+2024-04-01 20:07:10,136 Workload: LG10-WL02-V10-102 MAC address: 00:50:56:b6:b1:16 connected state True.
+2024-04-01 20:07:10,142 Workload: LG10-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9546'.
+2024-04-01 20:07:10,145 Workload: LG10-WL02-V10-102 MAC address: 00:50:56:b6:28:b1 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:10,151 Workload: LG10-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9546'.
+2024-04-01 20:07:10,194 Workload: LG10-WL03-V20-101 MAC address: 00:50:56:b6:71:63 connected state True.
+2024-04-01 20:07:10,208 Workload: LG10-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9547'.
+2024-04-01 20:07:10,208 Workload: LG10-WL03-V20-101 MAC address: 00:50:56:b6:aa:f3 IS NOT CONNECTED!!!!.
+2024-04-01 20:07:10,215 Workload: LG10-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9547'.
+2024-04-01 20:07:10,216 =======================================================================
+2024-04-01 20:07:10,217             VMware / Distributed Virtual Switches                        
+2024-04-01 20:07:10,218 ======================================================================
+2024-04-01 20:07:10,235 Distributed Virtual Switch has been found: LG01-dvs-1.
+2024-04-01 20:07:10,251 Distributed Virtual Switch has been found: LG01-dvs-2.
+2024-04-01 20:07:10,265 Distributed Virtual Switch has been found: LG02-dvs-1.
+2024-04-01 20:07:10,283 Distributed Virtual Switch has been found: LG02-dvs-2.
+2024-04-01 20:07:10,293 Distributed Virtual Switch has been found: LG03-dvs-1.
+2024-04-01 20:07:10,303 Distributed Virtual Switch has been found: LG03-dvs-2.
+2024-04-01 20:07:10,311 Distributed Virtual Switch has been found: LG04-dvs-1.
+2024-04-01 20:07:10,326 Distributed Virtual Switch has been found: LG04-dvs-2.
+2024-04-01 20:07:10,372 Distributed Virtual Switch has been found: LG05-dvs-1.
+2024-04-01 20:07:10,430 Distributed Virtual Switch has been found: LG05-dvs-2.
+2024-04-01 20:07:10,453 Distributed Virtual Switch has been found: LG06-dvs-1.
+2024-04-01 20:07:10,481 Distributed Virtual Switch has been found: LG06-dvs-2.
+2024-04-01 20:07:10,527 Distributed Virtual Switch has been found: LG07-dvs-1.
+2024-04-01 20:07:10,571 Distributed Virtual Switch has been found: LG07-dvs-2.
+2024-04-01 20:07:10,661 Distributed Virtual Switch has been found: LG08-dvs-1.
+2024-04-01 20:07:10,688 Distributed Virtual Switch has been found: LG08-dvs-2.
+2024-04-01 20:07:10,737 Distributed Virtual Switch has been found: LG09-dvs-1.
+2024-04-01 20:07:10,755 Distributed Virtual Switch has been found: LG09-dvs-2.
+2024-04-01 20:07:10,778 Distributed Virtual Switch has been found: LG10-dvs-1.
+2024-04-01 20:07:10,803 Distributed Virtual Switch has been found: LG10-dvs-2.
+2024-04-01 20:07:10,805 =======================================================================
+2024-04-01 20:07:10,841 Workload: LG01-AFC MAC address: 00:50:56:b6:d2:0b connected state True.
+2024-04-01 20:07:10,847 Workload: LG01-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5910'.
+2024-04-01 20:07:10,934 Workload: LG02-AFC MAC address: 00:50:56:b6:d2:d1 connected state True.
+2024-04-01 20:07:10,943 Workload: LG02-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5911'.
+2024-04-01 20:07:11,008 Workload: LG03-AFC MAC address: 00:50:56:b6:d1:7b connected state True.
+2024-04-01 20:07:11,024 Workload: LG03-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5912'.
+2024-04-01 20:07:11,049 Workload: LG04-AFC MAC address: 00:50:56:b6:93:b0 connected state True.
+2024-04-01 20:07:11,056 Workload: LG04-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5913'.
+2024-04-01 20:07:11,074 Workload: LG05-AFC MAC address: 00:50:56:b6:73:77 connected state True.
+2024-04-01 20:07:11,080 Workload: LG05-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5914'.
+2024-04-01 20:07:11,149 Workload: LG06-AFC MAC address: 00:50:56:b6:94:51 connected state True.
+2024-04-01 20:07:11,156 Workload: LG06-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5915'.
+2024-04-01 20:07:11,205 Workload: LG07-AFC MAC address: 00:50:56:b6:a5:08 connected state True.
+2024-04-01 20:07:11,212 Workload: LG07-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5916'.
+2024-04-01 20:07:11,280 Workload: LG08-AFC MAC address: 00:50:56:b6:a2:1b connected state True.
+2024-04-01 20:07:11,286 Workload: LG08-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5917'.
+2024-04-01 20:07:11,376 Workload: LG09-AFC MAC address: 00:50:56:b6:e2:48 connected state True.
+2024-04-01 20:07:11,382 Workload: LG09-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5918'.
+2024-04-01 20:07:11,433 Workload: LG10-AFC MAC address: 00:50:56:b6:87:96 connected state True.
+2024-04-01 20:07:11,442 Workload: LG10-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5919'.
+2024-04-01 20:07:11,443 automation has detected 10 AFC workloads!.
+2024-04-01 20:07:11,443 =======================================================================
+2024-04-01 20:07:11,495 Workload: LG01-PSM MAC address: 00:50:56:b6:c1:77 connected state True.
+2024-04-01 20:07:11,515 Workload: LG01-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3625'.
+2024-04-01 20:07:11,639 Workload: LG02-PSM MAC address: 00:50:56:b6:0d:f1 connected state True.
+2024-04-01 20:07:11,648 Workload: LG02-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3607'.
+2024-04-01 20:07:11,739 Workload: LG03-PSM MAC address: 00:50:56:b6:70:21 connected state True.
+2024-04-01 20:07:11,744 Workload: LG03-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3609'.
+2024-04-01 20:07:11,771 Workload: LG04-PSM MAC address: 00:50:56:b6:77:81 connected state True.
+2024-04-01 20:07:11,778 Workload: LG04-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3611'.
+2024-04-01 20:07:11,798 Workload: LG05-PSM MAC address: 00:50:56:b6:56:b3 connected state True.
+2024-04-01 20:07:11,803 Workload: LG05-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3614'.
+2024-04-01 20:07:11,865 Workload: LG06-PSM MAC address: 00:50:56:b6:9d:39 connected state True.
+2024-04-01 20:07:11,871 Workload: LG06-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3615'.
+2024-04-01 20:07:11,923 Workload: LG07-PSM MAC address: 00:50:56:b6:99:e3 connected state True.
+2024-04-01 20:07:11,929 Workload: LG07-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3617'.
+2024-04-01 20:07:11,997 Workload: LG08-PSM MAC address: 00:50:56:b6:c2:d0 connected state True.
+2024-04-01 20:07:12,003 Workload: LG08-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3619'.
+2024-04-01 20:07:12,084 Workload: LG09-PSM MAC address: 00:50:56:b6:20:59 connected state True.
+2024-04-01 20:07:12,094 Workload: LG09-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3621'.
+2024-04-01 20:07:12,135 Workload: LG10-PSM MAC address: 00:50:56:b6:aa:8b connected state True.
+2024-04-01 20:07:12,152 Workload: LG10-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3623'.
+2024-04-01 20:07:12,152 automation has detected 10 psm workloads!.
+2024-04-01 20:07:12,153 =======================================================================
+2024-04-02 14:34:03,216 =======================================================================
+2024-04-02 14:34:03,217                        VMware / Virtual Health                         
+2024-04-02 14:34:03,217 =======================================================================
+2024-04-02 14:34:03,271 Workload: LG01-WL01-V10-101 MAC address: 00:50:56:b6:fc:50 connected state True.
+2024-04-02 14:34:03,284 Workload: LG01-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9548'.
+2024-04-02 14:34:03,285 Workload: LG01-WL01-V10-101 MAC address: 00:50:56:b6:5c:a6 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:03,293 Workload: LG01-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9548'.
+2024-04-02 14:34:03,343 Workload: LG01-WL02-V10-102 MAC address: 00:50:56:b6:16:bd connected state True.
+2024-04-02 14:34:03,355 Workload: LG01-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9549'.
+2024-04-02 14:34:03,355 Workload: LG01-WL02-V10-102 MAC address: 00:50:56:b6:47:6f IS NOT CONNECTED!!!!.
+2024-04-02 14:34:03,361 Workload: LG01-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9549'.
+2024-04-02 14:34:03,396 Workload: LG01-WL03-V20-101 MAC address: 00:50:56:b6:3f:03 connected state True.
+2024-04-02 14:34:03,402 Workload: LG01-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9550'.
+2024-04-02 14:34:03,402 Workload: LG01-WL03-V20-101 MAC address: 00:50:56:b6:be:56 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:03,415 Workload: LG01-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9550'.
+2024-04-02 14:34:03,536 Workload: LG02-WL01-V10-101 MAC address: 00:50:56:b6:5f:1b connected state True.
+2024-04-02 14:34:03,542 Workload: LG02-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9521'.
+2024-04-02 14:34:03,542 Workload: LG02-WL01-V10-101 MAC address: 00:50:56:b6:8e:56 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:03,548 Workload: LG02-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9521'.
+2024-04-02 14:34:03,653 Workload: LG02-WL02-V10-102 MAC address: 00:50:56:b6:2d:4c connected state True.
+2024-04-02 14:34:03,665 Workload: LG02-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9522'.
+2024-04-02 14:34:03,665 Workload: LG02-WL02-V10-102 MAC address: 00:50:56:b6:3b:ef IS NOT CONNECTED!!!!.
+2024-04-02 14:34:03,672 Workload: LG02-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9522'.
+2024-04-02 14:34:03,814 Workload: LG02-WL03-V20-101 MAC address: 00:50:56:b6:44:ce connected state True.
+2024-04-02 14:34:03,829 Workload: LG02-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9523'.
+2024-04-02 14:34:03,829 Workload: LG02-WL03-V20-101 MAC address: 00:50:56:b6:21:4f IS NOT CONNECTED!!!!.
+2024-04-02 14:34:03,836 Workload: LG02-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9523'.
+2024-04-02 14:34:03,932 Workload: LG03-WL01-V10-101 MAC address: 00:50:56:b6:5a:bb connected state True.
+2024-04-02 14:34:03,939 Workload: LG03-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9524'.
+2024-04-02 14:34:03,940 Workload: LG03-WL01-V10-101 MAC address: 00:50:56:b6:73:ee IS NOT CONNECTED!!!!.
+2024-04-02 14:34:03,950 Workload: LG03-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9524'.
+2024-04-02 14:34:04,031 Workload: LG03-WL02-V10-102 MAC address: 00:50:56:b6:c7:45 connected state True.
+2024-04-02 14:34:04,040 Workload: LG03-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9525'.
+2024-04-02 14:34:04,042 Workload: LG03-WL02-V10-102 MAC address: 00:50:56:b6:8d:06 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,053 Workload: LG03-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9525'.
+2024-04-02 14:34:04,148 Workload: LG03-WL03-V20-101 MAC address: 00:50:56:b6:8c:5f connected state True.
+2024-04-02 14:34:04,155 Workload: LG03-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9526'.
+2024-04-02 14:34:04,156 Workload: LG03-WL03-V20-101 MAC address: 00:50:56:b6:f5:e2 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,169 Workload: LG03-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9526'.
+2024-04-02 14:34:04,202 Workload: LG04-WL01-V10-101 MAC address: 00:50:56:b6:b3:01 connected state True.
+2024-04-02 14:34:04,209 Workload: LG04-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9527'.
+2024-04-02 14:34:04,212 Workload: LG04-WL01-V10-101 MAC address: 00:50:56:b6:10:dc IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,221 Workload: LG04-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9527'.
+2024-04-02 14:34:04,252 Workload: LG04-WL02-V10-102 MAC address: 00:50:56:b6:56:ea connected state True.
+2024-04-02 14:34:04,257 Workload: LG04-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9528'.
+2024-04-02 14:34:04,257 Workload: LG04-WL02-V10-102 MAC address: 00:50:56:b6:10:90 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,262 Workload: LG04-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9528'.
+2024-04-02 14:34:04,285 Workload: LG04-WL03-V20-101 MAC address: 00:50:56:b6:36:94 connected state True.
+2024-04-02 14:34:04,290 Workload: LG04-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9529'.
+2024-04-02 14:34:04,290 Workload: LG04-WL03-V20-101 MAC address: 00:50:56:b6:0b:0e IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,296 Workload: LG04-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9529'.
+2024-04-02 14:34:04,317 Workload: LG05-WL01-V10-101 MAC address: 00:50:56:b6:25:51 connected state True.
+2024-04-02 14:34:04,322 Workload: LG05-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9530'.
+2024-04-02 14:34:04,322 Workload: LG05-WL01-V10-101 MAC address: 00:50:56:b6:90:5a IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,329 Workload: LG05-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9530'.
+2024-04-02 14:34:04,345 Workload: LG05-WL02-V10-102 MAC address: 00:50:56:b6:01:ee connected state True.
+2024-04-02 14:34:04,355 Workload: LG05-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9531'.
+2024-04-02 14:34:04,355 Workload: LG05-WL02-V10-102 MAC address: 00:50:56:b6:f9:0f IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,363 Workload: LG05-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9531'.
+2024-04-02 14:34:04,380 Workload: LG05-WL03-V20-101 MAC address: 00:50:56:b6:41:36 connected state True.
+2024-04-02 14:34:04,386 Workload: LG05-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9532'.
+2024-04-02 14:34:04,386 Workload: LG05-WL03-V20-101 MAC address: 00:50:56:b6:e3:fc IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,391 Workload: LG05-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9532'.
+2024-04-02 14:34:04,449 Workload: LG06-WL01-V10-101 MAC address: 00:50:56:b6:19:76 connected state True.
+2024-04-02 14:34:04,455 Workload: LG06-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9533'.
+2024-04-02 14:34:04,455 Workload: LG06-WL01-V10-101 MAC address: 00:50:56:b6:dc:10 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,460 Workload: LG06-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9533'.
+2024-04-02 14:34:04,512 Workload: LG06-WL02-V10-102 MAC address: 00:50:56:b6:72:7f connected state True.
+2024-04-02 14:34:04,519 Workload: LG06-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9534'.
+2024-04-02 14:34:04,521 Workload: LG06-WL02-V10-102 MAC address: 00:50:56:b6:4c:f0 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,528 Workload: LG06-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9534'.
+2024-04-02 14:34:04,601 Workload: LG06-WL03-V20-101 MAC address: 00:50:56:b6:97:fe connected state True.
+2024-04-02 14:34:04,610 Workload: LG06-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9535'.
+2024-04-02 14:34:04,611 Workload: LG06-WL03-V20-101 MAC address: 00:50:56:b6:5b:f5 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,624 Workload: LG06-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9535'.
+2024-04-02 14:34:04,673 Workload: LG07-WL01-V10-101 MAC address: 00:50:56:b6:de:88 connected state True.
+2024-04-02 14:34:04,679 Workload: LG07-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9536'.
+2024-04-02 14:34:04,679 Workload: LG07-WL01-V10-101 MAC address: 00:50:56:b6:19:35 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,690 Workload: LG07-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9536'.
+2024-04-02 14:34:04,742 Workload: LG07-WL02-V10-102 MAC address: 00:50:56:b6:61:31 connected state True.
+2024-04-02 14:34:04,748 Workload: LG07-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9537'.
+2024-04-02 14:34:04,748 Workload: LG07-WL02-V10-102 MAC address: 00:50:56:b6:46:8a IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,754 Workload: LG07-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9537'.
+2024-04-02 14:34:04,808 Workload: LG07-WL03-V20-101 MAC address: 00:50:56:b6:ea:73 connected state True.
+2024-04-02 14:34:04,813 Workload: LG07-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9538'.
+2024-04-02 14:34:04,813 Workload: LG07-WL03-V20-101 MAC address: 00:50:56:b6:ef:3a IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,819 Workload: LG07-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9538'.
+2024-04-02 14:34:04,904 Workload: LG08-WL01-V10-101 MAC address: 00:50:56:b6:c7:b3 connected state True.
+2024-04-02 14:34:04,910 Workload: LG08-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9539'.
+2024-04-02 14:34:04,911 Workload: LG08-WL01-V10-101 MAC address: 00:50:56:b6:ac:ac IS NOT CONNECTED!!!!.
+2024-04-02 14:34:04,917 Workload: LG08-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9539'.
+2024-04-02 14:34:05,007 Workload: LG08-WL02-V10-102 MAC address: 00:50:56:b6:4b:19 connected state True.
+2024-04-02 14:34:05,014 Workload: LG08-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9540'.
+2024-04-02 14:34:05,014 Workload: LG08-WL02-V10-102 MAC address: 00:50:56:b6:c1:78 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:05,020 Workload: LG08-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9540'.
+2024-04-02 14:34:05,096 Workload: LG08-WL03-V20-101 MAC address: 00:50:56:b6:ae:72 connected state True.
+2024-04-02 14:34:05,104 Workload: LG08-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9541'.
+2024-04-02 14:34:05,104 Workload: LG08-WL03-V20-101 MAC address: 00:50:56:b6:7a:2d IS NOT CONNECTED!!!!.
+2024-04-02 14:34:05,113 Workload: LG08-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9541'.
+2024-04-02 14:34:05,204 Workload: LG09-WL01-V10-101 MAC address: 00:50:56:b6:0b:d0 connected state True.
+2024-04-02 14:34:05,210 Workload: LG09-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9542'.
+2024-04-02 14:34:05,210 Workload: LG09-WL01-V10-101 MAC address: 00:50:56:b6:6a:c8 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:05,216 Workload: LG09-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9542'.
+2024-04-02 14:34:05,312 Workload: LG09-WL02-V10-102 MAC address: 00:50:56:b6:5b:ee connected state True.
+2024-04-02 14:34:05,318 Workload: LG09-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9543'.
+2024-04-02 14:34:05,318 Workload: LG09-WL02-V10-102 MAC address: 00:50:56:b6:29:33 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:05,323 Workload: LG09-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9543'.
+2024-04-02 14:34:05,489 Workload: LG09-WL03-V20-101 MAC address: 00:50:56:b6:98:a6 connected state True.
+2024-04-02 14:34:05,497 Workload: LG09-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9544'.
+2024-04-02 14:34:05,497 Workload: LG09-WL03-V20-101 MAC address: 00:50:56:b6:30:5e IS NOT CONNECTED!!!!.
+2024-04-02 14:34:05,506 Workload: LG09-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9544'.
+2024-04-02 14:34:05,547 Workload: LG10-WL01-V10-101 MAC address: 00:50:56:b6:d2:b0 connected state True.
+2024-04-02 14:34:05,554 Workload: LG10-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9545'.
+2024-04-02 14:34:05,554 Workload: LG10-WL01-V10-101 MAC address: 00:50:56:b6:99:9f IS NOT CONNECTED!!!!.
+2024-04-02 14:34:05,559 Workload: LG10-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9545'.
+2024-04-02 14:34:05,616 Workload: LG10-WL02-V10-102 MAC address: 00:50:56:b6:b1:16 connected state True.
+2024-04-02 14:34:05,622 Workload: LG10-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9546'.
+2024-04-02 14:34:05,623 Workload: LG10-WL02-V10-102 MAC address: 00:50:56:b6:28:b1 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:05,629 Workload: LG10-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9546'.
+2024-04-02 14:34:05,688 Workload: LG10-WL03-V20-101 MAC address: 00:50:56:b6:71:63 connected state True.
+2024-04-02 14:34:05,695 Workload: LG10-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9547'.
+2024-04-02 14:34:05,697 Workload: LG10-WL03-V20-101 MAC address: 00:50:56:b6:aa:f3 IS NOT CONNECTED!!!!.
+2024-04-02 14:34:05,705 Workload: LG10-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9547'.
+2024-04-02 14:34:05,707 =======================================================================
+2024-04-02 14:34:05,708             VMware / Distributed Virtual Switches                        
+2024-04-02 14:34:05,709 ======================================================================
+2024-04-02 14:34:05,731 Distributed Virtual Switch has been found: LG01-dvs-1.
+2024-04-02 14:34:05,745 Distributed Virtual Switch has been found: LG01-dvs-2.
+2024-04-02 14:34:05,768 Distributed Virtual Switch has been found: LG02-dvs-1.
+2024-04-02 14:34:05,780 Distributed Virtual Switch has been found: LG02-dvs-2.
+2024-04-02 14:34:05,794 Distributed Virtual Switch has been found: LG03-dvs-1.
+2024-04-02 14:34:05,803 Distributed Virtual Switch has been found: LG03-dvs-2.
+2024-04-02 14:34:05,817 Distributed Virtual Switch has been found: LG04-dvs-1.
+2024-04-02 14:34:05,834 Distributed Virtual Switch has been found: LG04-dvs-2.
+2024-04-02 14:34:05,885 Distributed Virtual Switch has been found: LG05-dvs-1.
+2024-04-02 14:34:05,944 Distributed Virtual Switch has been found: LG05-dvs-2.
+2024-04-02 14:34:05,990 Distributed Virtual Switch has been found: LG06-dvs-1.
+2024-04-02 14:34:06,021 Distributed Virtual Switch has been found: LG06-dvs-2.
+2024-04-02 14:34:06,050 Distributed Virtual Switch has been found: LG07-dvs-1.
+2024-04-02 14:34:06,073 Distributed Virtual Switch has been found: LG07-dvs-2.
+2024-04-02 14:34:06,102 Distributed Virtual Switch has been found: LG08-dvs-1.
+2024-04-02 14:34:06,129 Distributed Virtual Switch has been found: LG08-dvs-2.
+2024-04-02 14:34:06,147 Distributed Virtual Switch has been found: LG09-dvs-1.
+2024-04-02 14:34:06,162 Distributed Virtual Switch has been found: LG09-dvs-2.
+2024-04-02 14:34:06,190 Distributed Virtual Switch has been found: LG10-dvs-1.
+2024-04-02 14:34:06,215 Distributed Virtual Switch has been found: LG10-dvs-2.
+2024-04-02 14:34:06,215 =======================================================================
+2024-04-02 14:34:06,250 Workload: LG01-AFC MAC address: 00:50:56:b6:d2:0b connected state True.
+2024-04-02 14:34:06,259 Workload: LG01-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5910'.
+2024-04-02 14:34:06,345 Workload: LG02-AFC MAC address: 00:50:56:b6:d2:d1 connected state True.
+2024-04-02 14:34:06,351 Workload: LG02-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5911'.
+2024-04-02 14:34:06,415 Workload: LG03-AFC MAC address: 00:50:56:b6:d1:7b connected state True.
+2024-04-02 14:34:06,422 Workload: LG03-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5912'.
+2024-04-02 14:34:06,448 Workload: LG04-AFC MAC address: 00:50:56:b6:93:b0 connected state True.
+2024-04-02 14:34:06,453 Workload: LG04-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5913'.
+2024-04-02 14:34:06,476 Workload: LG05-AFC MAC address: 00:50:56:b6:73:77 connected state True.
+2024-04-02 14:34:06,483 Workload: LG05-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5914'.
+2024-04-02 14:34:06,576 Workload: LG06-AFC MAC address: 00:50:56:b6:94:51 connected state True.
+2024-04-02 14:34:06,585 Workload: LG06-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5915'.
+2024-04-02 14:34:06,649 Workload: LG07-AFC MAC address: 00:50:56:b6:a5:08 connected state True.
+2024-04-02 14:34:06,656 Workload: LG07-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5916'.
+2024-04-02 14:34:06,732 Workload: LG08-AFC MAC address: 00:50:56:b6:a2:1b connected state True.
+2024-04-02 14:34:06,738 Workload: LG08-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5917'.
+2024-04-02 14:34:06,824 Workload: LG09-AFC MAC address: 00:50:56:b6:e2:48 connected state True.
+2024-04-02 14:34:06,831 Workload: LG09-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5918'.
+2024-04-02 14:34:06,873 Workload: LG10-AFC MAC address: 00:50:56:b6:87:96 connected state True.
+2024-04-02 14:34:06,879 Workload: LG10-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5919'.
+2024-04-02 14:34:06,880 automation has detected 10 AFC workloads!.
+2024-04-02 14:34:06,881 =======================================================================
+2024-04-02 14:34:06,921 Workload: LG01-PSM MAC address: 00:50:56:b6:c1:77 connected state True.
+2024-04-02 14:34:06,928 Workload: LG01-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3625'.
+2024-04-02 14:34:07,069 Workload: LG02-PSM MAC address: 00:50:56:b6:0d:f1 connected state True.
+2024-04-02 14:34:07,076 Workload: LG02-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3607'.
+2024-04-02 14:34:07,148 Workload: LG03-PSM MAC address: 00:50:56:b6:70:21 connected state True.
+2024-04-02 14:34:07,155 Workload: LG03-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3609'.
+2024-04-02 14:34:07,186 Workload: LG04-PSM MAC address: 00:50:56:b6:77:81 connected state True.
+2024-04-02 14:34:07,195 Workload: LG04-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3611'.
+2024-04-02 14:34:07,221 Workload: LG05-PSM MAC address: 00:50:56:b6:56:b3 connected state True.
+2024-04-02 14:34:07,229 Workload: LG05-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3614'.
+2024-04-02 14:34:07,301 Workload: LG06-PSM MAC address: 00:50:56:b6:9d:39 connected state True.
+2024-04-02 14:34:07,307 Workload: LG06-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3615'.
+2024-04-02 14:34:07,369 Workload: LG07-PSM MAC address: 00:50:56:b6:99:e3 connected state True.
+2024-04-02 14:34:07,381 Workload: LG07-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3617'.
+2024-04-02 14:34:07,452 Workload: LG08-PSM MAC address: 00:50:56:b6:c2:d0 connected state True.
+2024-04-02 14:34:07,458 Workload: LG08-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3619'.
+2024-04-02 14:34:07,536 Workload: LG09-PSM MAC address: 00:50:56:b6:20:59 connected state True.
+2024-04-02 14:34:07,547 Workload: LG09-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3621'.
+2024-04-02 14:34:07,595 Workload: LG10-PSM MAC address: 00:50:56:b6:aa:8b connected state True.
+2024-04-02 14:34:07,602 Workload: LG10-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3623'.
+2024-04-02 14:34:07,603 automation has detected 10 psm workloads!.
+2024-04-02 14:34:07,603 =======================================================================
+2024-04-02 14:36:59,987 =======================================================================
+2024-04-02 14:36:59,988                        VMware / Virtual Health                         
+2024-04-02 14:36:59,988 =======================================================================
+2024-04-02 14:37:00,033 Workload: LG01-WL01-V10-101 MAC address: 00:50:56:b6:fc:50 connected state True.
+2024-04-02 14:37:00,044 Workload: LG01-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9548'.
+2024-04-02 14:37:00,044 Workload: LG01-WL01-V10-101 MAC address: 00:50:56:b6:5c:a6 connected state True.
+2024-04-02 14:37:00,050 Workload: LG01-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9548'.
+2024-04-02 14:37:00,096 Workload: LG01-WL02-V10-102 MAC address: 00:50:56:b6:16:bd connected state True.
+2024-04-02 14:37:00,102 Workload: LG01-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9549'.
+2024-04-02 14:37:00,102 Workload: LG01-WL02-V10-102 MAC address: 00:50:56:b6:47:6f connected state True.
+2024-04-02 14:37:00,112 Workload: LG01-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9549'.
+2024-04-02 14:37:00,158 Workload: LG01-WL03-V20-101 MAC address: 00:50:56:b6:3f:03 connected state True.
+2024-04-02 14:37:00,164 Workload: LG01-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9550'.
+2024-04-02 14:37:00,164 Workload: LG01-WL03-V20-101 MAC address: 00:50:56:b6:be:56 connected state True.
+2024-04-02 14:37:00,170 Workload: LG01-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9550'.
+2024-04-02 14:37:00,267 Workload: LG02-WL01-V10-101 MAC address: 00:50:56:b6:5f:1b connected state True.
+2024-04-02 14:37:00,273 Workload: LG02-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9521'.
+2024-04-02 14:37:00,273 Workload: LG02-WL01-V10-101 MAC address: 00:50:56:b6:8e:56 connected state True.
+2024-04-02 14:37:00,278 Workload: LG02-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9521'.
+2024-04-02 14:37:00,410 Workload: LG02-WL02-V10-102 MAC address: 00:50:56:b6:2d:4c connected state True.
+2024-04-02 14:37:00,421 Workload: LG02-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9522'.
+2024-04-02 14:37:00,421 Workload: LG02-WL02-V10-102 MAC address: 00:50:56:b6:3b:ef connected state True.
+2024-04-02 14:37:00,431 Workload: LG02-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9522'.
+2024-04-02 14:37:00,540 Workload: LG02-WL03-V20-101 MAC address: 00:50:56:b6:44:ce connected state True.
+2024-04-02 14:37:00,548 Workload: LG02-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9523'.
+2024-04-02 14:37:00,550 Workload: LG02-WL03-V20-101 MAC address: 00:50:56:b6:21:4f connected state True.
+2024-04-02 14:37:00,556 Workload: LG02-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9523'.
+2024-04-02 14:37:00,633 Workload: LG03-WL01-V10-101 MAC address: 00:50:56:b6:5a:bb connected state True.
+2024-04-02 14:37:00,639 Workload: LG03-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9524'.
+2024-04-02 14:37:00,640 Workload: LG03-WL01-V10-101 MAC address: 00:50:56:b6:73:ee connected state True.
+2024-04-02 14:37:00,647 Workload: LG03-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9524'.
+2024-04-02 14:37:00,709 Workload: LG03-WL02-V10-102 MAC address: 00:50:56:b6:c7:45 connected state True.
+2024-04-02 14:37:00,720 Workload: LG03-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9525'.
+2024-04-02 14:37:00,721 Workload: LG03-WL02-V10-102 MAC address: 00:50:56:b6:8d:06 connected state True.
+2024-04-02 14:37:00,735 Workload: LG03-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9525'.
+2024-04-02 14:37:00,810 Workload: LG03-WL03-V20-101 MAC address: 00:50:56:b6:8c:5f connected state True.
+2024-04-02 14:37:00,816 Workload: LG03-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9526'.
+2024-04-02 14:37:00,816 Workload: LG03-WL03-V20-101 MAC address: 00:50:56:b6:f5:e2 connected state True.
+2024-04-02 14:37:00,822 Workload: LG03-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9526'.
+2024-04-02 14:37:00,887 Workload: LG04-WL01-V10-101 MAC address: 00:50:56:b6:b3:01 connected state True.
+2024-04-02 14:37:00,893 Workload: LG04-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9527'.
+2024-04-02 14:37:00,893 Workload: LG04-WL01-V10-101 MAC address: 00:50:56:b6:10:dc connected state True.
+2024-04-02 14:37:00,901 Workload: LG04-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9527'.
+2024-04-02 14:37:00,928 Workload: LG04-WL02-V10-102 MAC address: 00:50:56:b6:56:ea connected state True.
+2024-04-02 14:37:00,934 Workload: LG04-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9528'.
+2024-04-02 14:37:00,934 Workload: LG04-WL02-V10-102 MAC address: 00:50:56:b6:10:90 connected state True.
+2024-04-02 14:37:00,939 Workload: LG04-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9528'.
+2024-04-02 14:37:00,962 Workload: LG04-WL03-V20-101 MAC address: 00:50:56:b6:36:94 connected state True.
+2024-04-02 14:37:00,972 Workload: LG04-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9529'.
+2024-04-02 14:37:00,973 Workload: LG04-WL03-V20-101 MAC address: 00:50:56:b6:0b:0e connected state True.
+2024-04-02 14:37:00,979 Workload: LG04-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9529'.
+2024-04-02 14:37:01,002 Workload: LG05-WL01-V10-101 MAC address: 00:50:56:b6:25:51 connected state True.
+2024-04-02 14:37:01,010 Workload: LG05-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9530'.
+2024-04-02 14:37:01,011 Workload: LG05-WL01-V10-101 MAC address: 00:50:56:b6:90:5a connected state True.
+2024-04-02 14:37:01,017 Workload: LG05-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9530'.
+2024-04-02 14:37:01,035 Workload: LG05-WL02-V10-102 MAC address: 00:50:56:b6:01:ee connected state True.
+2024-04-02 14:37:01,042 Workload: LG05-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9531'.
+2024-04-02 14:37:01,043 Workload: LG05-WL02-V10-102 MAC address: 00:50:56:b6:f9:0f connected state True.
+2024-04-02 14:37:01,049 Workload: LG05-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9531'.
+2024-04-02 14:37:01,068 Workload: LG05-WL03-V20-101 MAC address: 00:50:56:b6:41:36 connected state True.
+2024-04-02 14:37:01,075 Workload: LG05-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9532'.
+2024-04-02 14:37:01,076 Workload: LG05-WL03-V20-101 MAC address: 00:50:56:b6:e3:fc connected state True.
+2024-04-02 14:37:01,083 Workload: LG05-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9532'.
+2024-04-02 14:37:01,142 Workload: LG06-WL01-V10-101 MAC address: 00:50:56:b6:19:76 connected state True.
+2024-04-02 14:37:01,157 Workload: LG06-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9533'.
+2024-04-02 14:37:01,158 Workload: LG06-WL01-V10-101 MAC address: 00:50:56:b6:dc:10 connected state True.
+2024-04-02 14:37:01,166 Workload: LG06-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9533'.
+2024-04-02 14:37:01,229 Workload: LG06-WL02-V10-102 MAC address: 00:50:56:b6:72:7f connected state True.
+2024-04-02 14:37:01,236 Workload: LG06-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9534'.
+2024-04-02 14:37:01,236 Workload: LG06-WL02-V10-102 MAC address: 00:50:56:b6:4c:f0 connected state True.
+2024-04-02 14:37:01,241 Workload: LG06-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9534'.
+2024-04-02 14:37:01,302 Workload: LG06-WL03-V20-101 MAC address: 00:50:56:b6:97:fe connected state True.
+2024-04-02 14:37:01,307 Workload: LG06-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9535'.
+2024-04-02 14:37:01,308 Workload: LG06-WL03-V20-101 MAC address: 00:50:56:b6:5b:f5 connected state True.
+2024-04-02 14:37:01,314 Workload: LG06-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9535'.
+2024-04-02 14:37:01,363 Workload: LG07-WL01-V10-101 MAC address: 00:50:56:b6:de:88 connected state True.
+2024-04-02 14:37:01,371 Workload: LG07-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9536'.
+2024-04-02 14:37:01,371 Workload: LG07-WL01-V10-101 MAC address: 00:50:56:b6:19:35 connected state True.
+2024-04-02 14:37:01,377 Workload: LG07-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9536'.
+2024-04-02 14:37:01,438 Workload: LG07-WL02-V10-102 MAC address: 00:50:56:b6:61:31 connected state True.
+2024-04-02 14:37:01,443 Workload: LG07-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9537'.
+2024-04-02 14:37:01,444 Workload: LG07-WL02-V10-102 MAC address: 00:50:56:b6:46:8a connected state True.
+2024-04-02 14:37:01,450 Workload: LG07-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9537'.
+2024-04-02 14:37:01,492 Workload: LG07-WL03-V20-101 MAC address: 00:50:56:b6:ea:73 connected state True.
+2024-04-02 14:37:01,499 Workload: LG07-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9538'.
+2024-04-02 14:37:01,499 Workload: LG07-WL03-V20-101 MAC address: 00:50:56:b6:ef:3a connected state True.
+2024-04-02 14:37:01,504 Workload: LG07-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9538'.
+2024-04-02 14:37:01,582 Workload: LG08-WL01-V10-101 MAC address: 00:50:56:b6:c7:b3 connected state True.
+2024-04-02 14:37:01,588 Workload: LG08-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9539'.
+2024-04-02 14:37:01,588 Workload: LG08-WL01-V10-101 MAC address: 00:50:56:b6:ac:ac connected state True.
+2024-04-02 14:37:01,595 Workload: LG08-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9539'.
+2024-04-02 14:37:01,753 Workload: LG08-WL02-V10-102 MAC address: 00:50:56:b6:4b:19 connected state True.
+2024-04-02 14:37:01,762 Workload: LG08-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9540'.
+2024-04-02 14:37:01,762 Workload: LG08-WL02-V10-102 MAC address: 00:50:56:b6:c1:78 connected state True.
+2024-04-02 14:37:01,770 Workload: LG08-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9540'.
+2024-04-02 14:37:01,869 Workload: LG08-WL03-V20-101 MAC address: 00:50:56:b6:ae:72 connected state True.
+2024-04-02 14:37:01,877 Workload: LG08-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9541'.
+2024-04-02 14:37:01,878 Workload: LG08-WL03-V20-101 MAC address: 00:50:56:b6:7a:2d connected state True.
+2024-04-02 14:37:01,885 Workload: LG08-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9541'.
+2024-04-02 14:37:02,049 Workload: LG09-WL01-V10-101 MAC address: 00:50:56:b6:0b:d0 connected state True.
+2024-04-02 14:37:02,066 Workload: LG09-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9542'.
+2024-04-02 14:37:02,066 Workload: LG09-WL01-V10-101 MAC address: 00:50:56:b6:6a:c8 connected state True.
+2024-04-02 14:37:02,084 Workload: LG09-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9542'.
+2024-04-02 14:37:02,209 Workload: LG09-WL02-V10-102 MAC address: 00:50:56:b6:5b:ee connected state True.
+2024-04-02 14:37:02,217 Workload: LG09-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9543'.
+2024-04-02 14:37:02,218 Workload: LG09-WL02-V10-102 MAC address: 00:50:56:b6:29:33 connected state True.
+2024-04-02 14:37:02,225 Workload: LG09-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9543'.
+2024-04-02 14:37:02,329 Workload: LG09-WL03-V20-101 MAC address: 00:50:56:b6:98:a6 connected state True.
+2024-04-02 14:37:02,335 Workload: LG09-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9544'.
+2024-04-02 14:37:02,335 Workload: LG09-WL03-V20-101 MAC address: 00:50:56:b6:30:5e connected state True.
+2024-04-02 14:37:02,341 Workload: LG09-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9544'.
+2024-04-02 14:37:02,397 Workload: LG10-WL01-V10-101 MAC address: 00:50:56:b6:d2:b0 connected state True.
+2024-04-02 14:37:02,404 Workload: LG10-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9545'.
+2024-04-02 14:37:02,404 Workload: LG10-WL01-V10-101 MAC address: 00:50:56:b6:99:9f connected state True.
+2024-04-02 14:37:02,409 Workload: LG10-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9545'.
+2024-04-02 14:37:02,464 Workload: LG10-WL02-V10-102 MAC address: 00:50:56:b6:b1:16 connected state True.
+2024-04-02 14:37:02,471 Workload: LG10-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9546'.
+2024-04-02 14:37:02,471 Workload: LG10-WL02-V10-102 MAC address: 00:50:56:b6:28:b1 connected state True.
+2024-04-02 14:37:02,477 Workload: LG10-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9546'.
+2024-04-02 14:37:02,522 Workload: LG10-WL03-V20-101 MAC address: 00:50:56:b6:71:63 connected state True.
+2024-04-02 14:37:02,529 Workload: LG10-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9547'.
+2024-04-02 14:37:02,529 Workload: LG10-WL03-V20-101 MAC address: 00:50:56:b6:aa:f3 connected state True.
+2024-04-02 14:37:02,537 Workload: LG10-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9547'.
+2024-04-02 14:37:02,539 =======================================================================
+2024-04-02 14:37:02,541             VMware / Distributed Virtual Switches                        
+2024-04-02 14:37:02,541 ======================================================================
+2024-04-02 14:37:02,564 Distributed Virtual Switch has been found: LG01-dvs-1.
+2024-04-02 14:37:02,579 Distributed Virtual Switch has been found: LG01-dvs-2.
+2024-04-02 14:37:02,599 Distributed Virtual Switch has been found: LG02-dvs-1.
+2024-04-02 14:37:02,607 Distributed Virtual Switch has been found: LG02-dvs-2.
+2024-04-02 14:37:02,618 Distributed Virtual Switch has been found: LG03-dvs-1.
+2024-04-02 14:37:02,624 Distributed Virtual Switch has been found: LG03-dvs-2.
+2024-04-02 14:37:02,635 Distributed Virtual Switch has been found: LG04-dvs-1.
+2024-04-02 14:37:02,641 Distributed Virtual Switch has been found: LG04-dvs-2.
+2024-04-02 14:37:02,657 Distributed Virtual Switch has been found: LG05-dvs-1.
+2024-04-02 14:37:02,682 Distributed Virtual Switch has been found: LG05-dvs-2.
+2024-04-02 14:37:02,717 Distributed Virtual Switch has been found: LG06-dvs-1.
+2024-04-02 14:37:02,738 Distributed Virtual Switch has been found: LG06-dvs-2.
+2024-04-02 14:37:02,764 Distributed Virtual Switch has been found: LG07-dvs-1.
+2024-04-02 14:37:02,788 Distributed Virtual Switch has been found: LG07-dvs-2.
+2024-04-02 14:37:02,819 Distributed Virtual Switch has been found: LG08-dvs-1.
+2024-04-02 14:37:02,846 Distributed Virtual Switch has been found: LG08-dvs-2.
+2024-04-02 14:37:02,874 Distributed Virtual Switch has been found: LG09-dvs-1.
+2024-04-02 14:37:02,899 Distributed Virtual Switch has been found: LG09-dvs-2.
+2024-04-02 14:37:02,944 Distributed Virtual Switch has been found: LG10-dvs-1.
+2024-04-02 14:37:02,987 Distributed Virtual Switch has been found: LG10-dvs-2.
+2024-04-02 14:37:02,988 =======================================================================
+2024-04-02 14:37:03,029 Workload: LG01-AFC MAC address: 00:50:56:b6:d2:0b connected state True.
+2024-04-02 14:37:03,038 Workload: LG01-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5910'.
+2024-04-02 14:37:03,161 Workload: LG02-AFC MAC address: 00:50:56:b6:d2:d1 connected state True.
+2024-04-02 14:37:03,167 Workload: LG02-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5911'.
+2024-04-02 14:37:03,243 Workload: LG03-AFC MAC address: 00:50:56:b6:d1:7b connected state True.
+2024-04-02 14:37:03,249 Workload: LG03-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5912'.
+2024-04-02 14:37:03,278 Workload: LG04-AFC MAC address: 00:50:56:b6:93:b0 connected state True.
+2024-04-02 14:37:03,283 Workload: LG04-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5913'.
+2024-04-02 14:37:03,300 Workload: LG05-AFC MAC address: 00:50:56:b6:73:77 connected state True.
+2024-04-02 14:37:03,308 Workload: LG05-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5914'.
+2024-04-02 14:37:03,376 Workload: LG06-AFC MAC address: 00:50:56:b6:94:51 connected state True.
+2024-04-02 14:37:03,382 Workload: LG06-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5915'.
+2024-04-02 14:37:03,447 Workload: LG07-AFC MAC address: 00:50:56:b6:a5:08 connected state True.
+2024-04-02 14:37:03,453 Workload: LG07-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5916'.
+2024-04-02 14:37:03,565 Workload: LG08-AFC MAC address: 00:50:56:b6:a2:1b connected state True.
+2024-04-02 14:37:03,572 Workload: LG08-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5917'.
+2024-04-02 14:37:03,701 Workload: LG09-AFC MAC address: 00:50:56:b6:e2:48 connected state True.
+2024-04-02 14:37:03,708 Workload: LG09-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5918'.
+2024-04-02 14:37:03,762 Workload: LG10-AFC MAC address: 00:50:56:b6:87:96 connected state True.
+2024-04-02 14:37:03,770 Workload: LG10-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5919'.
+2024-04-02 14:37:03,770 automation has detected 10 AFC workloads!.
+2024-04-02 14:37:03,770 =======================================================================
+2024-04-02 14:37:03,803 Workload: LG01-PSM MAC address: 00:50:56:b6:c1:77 connected state True.
+2024-04-02 14:37:03,809 Workload: LG01-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3625'.
+2024-04-02 14:37:03,953 Workload: LG02-PSM MAC address: 00:50:56:b6:0d:f1 connected state True.
+2024-04-02 14:37:03,968 Workload: LG02-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3607'.
+2024-04-02 14:37:04,046 Workload: LG03-PSM MAC address: 00:50:56:b6:70:21 connected state True.
+2024-04-02 14:37:04,052 Workload: LG03-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3609'.
+2024-04-02 14:37:04,084 Workload: LG04-PSM MAC address: 00:50:56:b6:77:81 connected state True.
+2024-04-02 14:37:04,096 Workload: LG04-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3611'.
+2024-04-02 14:37:04,124 Workload: LG05-PSM MAC address: 00:50:56:b6:56:b3 connected state True.
+2024-04-02 14:37:04,129 Workload: LG05-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3614'.
+2024-04-02 14:37:04,197 Workload: LG06-PSM MAC address: 00:50:56:b6:9d:39 connected state True.
+2024-04-02 14:37:04,203 Workload: LG06-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3615'.
+2024-04-02 14:37:04,272 Workload: LG07-PSM MAC address: 00:50:56:b6:99:e3 connected state True.
+2024-04-02 14:37:04,282 Workload: LG07-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3617'.
+2024-04-02 14:37:04,358 Workload: LG08-PSM MAC address: 00:50:56:b6:c2:d0 connected state True.
+2024-04-02 14:37:04,363 Workload: LG08-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3619'.
+2024-04-02 14:37:04,486 Workload: LG09-PSM MAC address: 00:50:56:b6:20:59 connected state True.
+2024-04-02 14:37:04,492 Workload: LG09-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3621'.
+2024-04-02 14:37:04,560 Workload: LG10-PSM MAC address: 00:50:56:b6:aa:8b connected state True.
+2024-04-02 14:37:04,565 Workload: LG10-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3623'.
+2024-04-02 14:37:04,566 automation has detected 10 psm workloads!.
+2024-04-02 14:37:04,566 =======================================================================
+2024-04-03 19:02:36,652 =======================================================================
+2024-04-03 19:02:36,653                        VMware / Virtual Health                         
+2024-04-03 19:02:36,653 =======================================================================
+2024-04-03 19:02:36,699 Workload: LG01-WL01-V10-101 MAC address: 00:50:56:b6:fc:50 connected state True.
+2024-04-03 19:02:36,708 Workload: LG01-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9548'.
+2024-04-03 19:02:36,708 Workload: LG01-WL01-V10-101 MAC address: 00:50:56:b6:5c:a6 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:36,714 Workload: LG01-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9548'.
+2024-04-03 19:02:36,760 Workload: LG01-WL02-V10-102 MAC address: 00:50:56:b6:16:bd connected state True.
+2024-04-03 19:02:36,766 Workload: LG01-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9549'.
+2024-04-03 19:02:36,766 Workload: LG01-WL02-V10-102 MAC address: 00:50:56:b6:47:6f IS NOT CONNECTED!!!!.
+2024-04-03 19:02:36,772 Workload: LG01-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9549'.
+2024-04-03 19:02:36,806 Workload: LG01-WL03-V20-101 MAC address: 00:50:56:b6:3f:03 connected state True.
+2024-04-03 19:02:36,812 Workload: LG01-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9550'.
+2024-04-03 19:02:36,812 Workload: LG01-WL03-V20-101 MAC address: 00:50:56:b6:be:56 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:36,819 Workload: LG01-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9550'.
+2024-04-03 19:02:36,908 Workload: LG02-WL01-V10-101 MAC address: 00:50:56:b6:5f:1b connected state True.
+2024-04-03 19:02:36,914 Workload: LG02-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9521'.
+2024-04-03 19:02:36,914 Workload: LG02-WL01-V10-101 MAC address: 00:50:56:b6:8e:56 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:36,920 Workload: LG02-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9521'.
+2024-04-03 19:02:37,007 Workload: LG02-WL02-V10-102 MAC address: 00:50:56:b6:2d:4c connected state True.
+2024-04-03 19:02:37,013 Workload: LG02-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9522'.
+2024-04-03 19:02:37,013 Workload: LG02-WL02-V10-102 MAC address: 00:50:56:b6:3b:ef IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,018 Workload: LG02-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9522'.
+2024-04-03 19:02:37,120 Workload: LG02-WL03-V20-101 MAC address: 00:50:56:b6:44:ce connected state True.
+2024-04-03 19:02:37,125 Workload: LG02-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9523'.
+2024-04-03 19:02:37,125 Workload: LG02-WL03-V20-101 MAC address: 00:50:56:b6:21:4f IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,132 Workload: LG02-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9523'.
+2024-04-03 19:02:37,193 Workload: LG03-WL01-V10-101 MAC address: 00:50:56:b6:5a:bb connected state True.
+2024-04-03 19:02:37,200 Workload: LG03-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9524'.
+2024-04-03 19:02:37,200 Workload: LG03-WL01-V10-101 MAC address: 00:50:56:b6:73:ee IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,207 Workload: LG03-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9524'.
+2024-04-03 19:02:37,274 Workload: LG03-WL02-V10-102 MAC address: 00:50:56:b6:c7:45 connected state True.
+2024-04-03 19:02:37,289 Workload: LG03-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9525'.
+2024-04-03 19:02:37,289 Workload: LG03-WL02-V10-102 MAC address: 00:50:56:b6:8d:06 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,318 Workload: LG03-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9525'.
+2024-04-03 19:02:37,447 Workload: LG03-WL03-V20-101 MAC address: 00:50:56:b6:8c:5f connected state True.
+2024-04-03 19:02:37,452 Workload: LG03-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9526'.
+2024-04-03 19:02:37,452 Workload: LG03-WL03-V20-101 MAC address: 00:50:56:b6:f5:e2 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,460 Workload: LG03-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9526'.
+2024-04-03 19:02:37,489 Workload: LG04-WL01-V10-101 MAC address: 00:50:56:b6:b3:01 connected state True.
+2024-04-03 19:02:37,504 Workload: LG04-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9527'.
+2024-04-03 19:02:37,504 Workload: LG04-WL01-V10-101 MAC address: 00:50:56:b6:10:dc IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,515 Workload: LG04-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9527'.
+2024-04-03 19:02:37,546 Workload: LG04-WL02-V10-102 MAC address: 00:50:56:b6:56:ea connected state True.
+2024-04-03 19:02:37,552 Workload: LG04-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9528'.
+2024-04-03 19:02:37,553 Workload: LG04-WL02-V10-102 MAC address: 00:50:56:b6:10:90 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,559 Workload: LG04-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9528'.
+2024-04-03 19:02:37,594 Workload: LG04-WL03-V20-101 MAC address: 00:50:56:b6:36:94 connected state True.
+2024-04-03 19:02:37,602 Workload: LG04-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9529'.
+2024-04-03 19:02:37,602 Workload: LG04-WL03-V20-101 MAC address: 00:50:56:b6:0b:0e IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,608 Workload: LG04-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9529'.
+2024-04-03 19:02:37,630 Workload: LG05-WL01-V10-101 MAC address: 00:50:56:b6:25:51 connected state True.
+2024-04-03 19:02:37,636 Workload: LG05-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9530'.
+2024-04-03 19:02:37,636 Workload: LG05-WL01-V10-101 MAC address: 00:50:56:b6:90:5a IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,641 Workload: LG05-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9530'.
+2024-04-03 19:02:37,656 Workload: LG05-WL02-V10-102 MAC address: 00:50:56:b6:01:ee connected state True.
+2024-04-03 19:02:37,662 Workload: LG05-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9531'.
+2024-04-03 19:02:37,662 Workload: LG05-WL02-V10-102 MAC address: 00:50:56:b6:f9:0f IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,668 Workload: LG05-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9531'.
+2024-04-03 19:02:37,684 Workload: LG05-WL03-V20-101 MAC address: 00:50:56:b6:41:36 connected state True.
+2024-04-03 19:02:37,689 Workload: LG05-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9532'.
+2024-04-03 19:02:37,689 Workload: LG05-WL03-V20-101 MAC address: 00:50:56:b6:e3:fc IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,695 Workload: LG05-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9532'.
+2024-04-03 19:02:37,754 Workload: LG06-WL01-V10-101 MAC address: 00:50:56:b6:19:76 connected state True.
+2024-04-03 19:02:37,760 Workload: LG06-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9533'.
+2024-04-03 19:02:37,760 Workload: LG06-WL01-V10-101 MAC address: 00:50:56:b6:dc:10 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,765 Workload: LG06-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9533'.
+2024-04-03 19:02:37,815 Workload: LG06-WL02-V10-102 MAC address: 00:50:56:b6:72:7f connected state True.
+2024-04-03 19:02:37,821 Workload: LG06-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9534'.
+2024-04-03 19:02:37,821 Workload: LG06-WL02-V10-102 MAC address: 00:50:56:b6:4c:f0 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,826 Workload: LG06-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9534'.
+2024-04-03 19:02:37,884 Workload: LG06-WL03-V20-101 MAC address: 00:50:56:b6:97:fe connected state True.
+2024-04-03 19:02:37,889 Workload: LG06-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9535'.
+2024-04-03 19:02:37,890 Workload: LG06-WL03-V20-101 MAC address: 00:50:56:b6:5b:f5 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,895 Workload: LG06-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9535'.
+2024-04-03 19:02:37,941 Workload: LG07-WL01-V10-101 MAC address: 00:50:56:b6:de:88 connected state True.
+2024-04-03 19:02:37,947 Workload: LG07-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9536'.
+2024-04-03 19:02:37,947 Workload: LG07-WL01-V10-101 MAC address: 00:50:56:b6:19:35 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:37,957 Workload: LG07-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9536'.
+2024-04-03 19:02:38,045 Workload: LG07-WL02-V10-102 MAC address: 00:50:56:b6:61:31 connected state True.
+2024-04-03 19:02:38,051 Workload: LG07-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9537'.
+2024-04-03 19:02:38,051 Workload: LG07-WL02-V10-102 MAC address: 00:50:56:b6:46:8a IS NOT CONNECTED!!!!.
+2024-04-03 19:02:38,059 Workload: LG07-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9537'.
+2024-04-03 19:02:38,102 Workload: LG07-WL03-V20-101 MAC address: 00:50:56:b6:ea:73 connected state True.
+2024-04-03 19:02:38,107 Workload: LG07-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9538'.
+2024-04-03 19:02:38,107 Workload: LG07-WL03-V20-101 MAC address: 00:50:56:b6:ef:3a IS NOT CONNECTED!!!!.
+2024-04-03 19:02:38,113 Workload: LG07-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9538'.
+2024-04-03 19:02:38,182 Workload: LG08-WL01-V10-101 MAC address: 00:50:56:b6:c7:b3 connected state True.
+2024-04-03 19:02:38,189 Workload: LG08-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9539'.
+2024-04-03 19:02:38,190 Workload: LG08-WL01-V10-101 MAC address: 00:50:56:b6:ac:ac IS NOT CONNECTED!!!!.
+2024-04-03 19:02:38,196 Workload: LG08-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9539'.
+2024-04-03 19:02:38,263 Workload: LG08-WL02-V10-102 MAC address: 00:50:56:b6:4b:19 connected state True.
+2024-04-03 19:02:38,269 Workload: LG08-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9540'.
+2024-04-03 19:02:38,269 Workload: LG08-WL02-V10-102 MAC address: 00:50:56:b6:c1:78 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:38,276 Workload: LG08-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9540'.
+2024-04-03 19:02:38,346 Workload: LG08-WL03-V20-101 MAC address: 00:50:56:b6:ae:72 connected state True.
+2024-04-03 19:02:38,351 Workload: LG08-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9541'.
+2024-04-03 19:02:38,351 Workload: LG08-WL03-V20-101 MAC address: 00:50:56:b6:7a:2d IS NOT CONNECTED!!!!.
+2024-04-03 19:02:38,357 Workload: LG08-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9541'.
+2024-04-03 19:02:38,431 Workload: LG09-WL01-V10-101 MAC address: 00:50:56:b6:0b:d0 connected state True.
+2024-04-03 19:02:38,436 Workload: LG09-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9542'.
+2024-04-03 19:02:38,437 Workload: LG09-WL01-V10-101 MAC address: 00:50:56:b6:6a:c8 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:38,444 Workload: LG09-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9542'.
+2024-04-03 19:02:38,525 Workload: LG09-WL02-V10-102 MAC address: 00:50:56:b6:5b:ee connected state True.
+2024-04-03 19:02:38,531 Workload: LG09-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9543'.
+2024-04-03 19:02:38,531 Workload: LG09-WL02-V10-102 MAC address: 00:50:56:b6:29:33 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:38,536 Workload: LG09-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9543'.
+2024-04-03 19:02:38,616 Workload: LG09-WL03-V20-101 MAC address: 00:50:56:b6:98:a6 connected state True.
+2024-04-03 19:02:38,622 Workload: LG09-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9544'.
+2024-04-03 19:02:38,622 Workload: LG09-WL03-V20-101 MAC address: 00:50:56:b6:30:5e IS NOT CONNECTED!!!!.
+2024-04-03 19:02:38,627 Workload: LG09-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9544'.
+2024-04-03 19:02:38,664 Workload: LG10-WL01-V10-101 MAC address: 00:50:56:b6:d2:b0 connected state True.
+2024-04-03 19:02:38,669 Workload: LG10-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9545'.
+2024-04-03 19:02:38,670 Workload: LG10-WL01-V10-101 MAC address: 00:50:56:b6:99:9f IS NOT CONNECTED!!!!.
+2024-04-03 19:02:38,675 Workload: LG10-WL01-V10-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9545'.
+2024-04-03 19:02:38,714 Workload: LG10-WL02-V10-102 MAC address: 00:50:56:b6:b1:16 connected state True.
+2024-04-03 19:02:38,719 Workload: LG10-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9546'.
+2024-04-03 19:02:38,720 Workload: LG10-WL02-V10-102 MAC address: 00:50:56:b6:28:b1 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:38,725 Workload: LG10-WL02-V10-102 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9546'.
+2024-04-03 19:02:38,767 Workload: LG10-WL03-V20-101 MAC address: 00:50:56:b6:71:63 connected state True.
+2024-04-03 19:02:38,772 Workload: LG10-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9547'.
+2024-04-03 19:02:38,772 Workload: LG10-WL03-V20-101 MAC address: 00:50:56:b6:aa:f3 IS NOT CONNECTED!!!!.
+2024-04-03 19:02:38,778 Workload: LG10-WL03-V20-101 is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-9547'.
+2024-04-03 19:02:38,778 =======================================================================
+2024-04-03 19:02:38,778             VMware / Distributed Virtual Switches                        
+2024-04-03 19:02:38,778 ======================================================================
+2024-04-03 19:02:38,799 Distributed Virtual Switch has been found: LG01-dvs-1.
+2024-04-03 19:02:38,810 Distributed Virtual Switch has been found: LG01-dvs-2.
+2024-04-03 19:02:38,825 Distributed Virtual Switch has been found: LG02-dvs-1.
+2024-04-03 19:02:38,833 Distributed Virtual Switch has been found: LG02-dvs-2.
+2024-04-03 19:02:38,848 Distributed Virtual Switch has been found: LG03-dvs-1.
+2024-04-03 19:02:38,854 Distributed Virtual Switch has been found: LG03-dvs-2.
+2024-04-03 19:02:38,863 Distributed Virtual Switch has been found: LG04-dvs-1.
+2024-04-03 19:02:38,868 Distributed Virtual Switch has been found: LG04-dvs-2.
+2024-04-03 19:02:38,885 Distributed Virtual Switch has been found: LG05-dvs-1.
+2024-04-03 19:02:38,916 Distributed Virtual Switch has been found: LG05-dvs-2.
+2024-04-03 19:02:38,945 Distributed Virtual Switch has been found: LG06-dvs-1.
+2024-04-03 19:02:38,966 Distributed Virtual Switch has been found: LG06-dvs-2.
+2024-04-03 19:02:38,999 Distributed Virtual Switch has been found: LG07-dvs-1.
+2024-04-03 19:02:39,019 Distributed Virtual Switch has been found: LG07-dvs-2.
+2024-04-03 19:02:39,048 Distributed Virtual Switch has been found: LG08-dvs-1.
+2024-04-03 19:02:39,062 Distributed Virtual Switch has been found: LG08-dvs-2.
+2024-04-03 19:02:39,080 Distributed Virtual Switch has been found: LG09-dvs-1.
+2024-04-03 19:02:39,091 Distributed Virtual Switch has been found: LG09-dvs-2.
+2024-04-03 19:02:39,117 Distributed Virtual Switch has been found: LG10-dvs-1.
+2024-04-03 19:02:39,140 Distributed Virtual Switch has been found: LG10-dvs-2.
+2024-04-03 19:02:39,140 =======================================================================
+2024-04-03 19:02:39,191 Workload: LG01-AFC MAC address: 00:50:56:b6:d2:0b connected state True.
+2024-04-03 19:02:39,198 Workload: LG01-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5910'.
+2024-04-03 19:02:39,295 Workload: LG02-AFC MAC address: 00:50:56:b6:d2:d1 connected state True.
+2024-04-03 19:02:39,300 Workload: LG02-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5911'.
+2024-04-03 19:02:39,363 Workload: LG03-AFC MAC address: 00:50:56:b6:d1:7b connected state True.
+2024-04-03 19:02:39,370 Workload: LG03-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5912'.
+2024-04-03 19:02:39,395 Workload: LG04-AFC MAC address: 00:50:56:b6:93:b0 connected state True.
+2024-04-03 19:02:39,400 Workload: LG04-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5913'.
+2024-04-03 19:02:39,416 Workload: LG05-AFC MAC address: 00:50:56:b6:73:77 connected state True.
+2024-04-03 19:02:39,422 Workload: LG05-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5914'.
+2024-04-03 19:02:39,479 Workload: LG06-AFC MAC address: 00:50:56:b6:94:51 connected state True.
+2024-04-03 19:02:39,485 Workload: LG06-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5915'.
+2024-04-03 19:02:39,533 Workload: LG07-AFC MAC address: 00:50:56:b6:a5:08 connected state True.
+2024-04-03 19:02:39,539 Workload: LG07-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5916'.
+2024-04-03 19:02:39,616 Workload: LG08-AFC MAC address: 00:50:56:b6:a2:1b connected state True.
+2024-04-03 19:02:39,621 Workload: LG08-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5917'.
+2024-04-03 19:02:39,700 Workload: LG09-AFC MAC address: 00:50:56:b6:e2:48 connected state True.
+2024-04-03 19:02:39,705 Workload: LG09-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5918'.
+2024-04-03 19:02:39,760 Workload: LG10-AFC MAC address: 00:50:56:b6:87:96 connected state True.
+2024-04-03 19:02:39,768 Workload: LG10-AFC is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-5919'.
+2024-04-03 19:02:39,769 automation has detected 10 AFC workloads!.
+2024-04-03 19:02:39,769 =======================================================================
+2024-04-03 19:02:39,823 Workload: LG01-PSM MAC address: 00:50:56:b6:c1:77 connected state True.
+2024-04-03 19:02:39,829 Workload: LG01-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3625'.
+2024-04-03 19:02:39,926 Workload: LG02-PSM MAC address: 00:50:56:b6:0d:f1 connected state True.
+2024-04-03 19:02:39,932 Workload: LG02-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3607'.
+2024-04-03 19:02:40,015 Workload: LG03-PSM MAC address: 00:50:56:b6:70:21 connected state True.
+2024-04-03 19:02:40,021 Workload: LG03-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3609'.
+2024-04-03 19:02:40,051 Workload: LG04-PSM MAC address: 00:50:56:b6:77:81 connected state True.
+2024-04-03 19:02:40,057 Workload: LG04-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3611'.
+2024-04-03 19:02:40,079 Workload: LG05-PSM MAC address: 00:50:56:b6:56:b3 connected state True.
+2024-04-03 19:02:40,085 Workload: LG05-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3614'.
+2024-04-03 19:02:40,148 Workload: LG06-PSM MAC address: 00:50:56:b6:9d:39 connected state True.
+2024-04-03 19:02:40,154 Workload: LG06-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3615'.
+2024-04-03 19:02:40,207 Workload: LG07-PSM MAC address: 00:50:56:b6:99:e3 connected state True.
+2024-04-03 19:02:40,213 Workload: LG07-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3617'.
+2024-04-03 19:02:40,349 Workload: LG08-PSM MAC address: 00:50:56:b6:c2:d0 connected state True.
+2024-04-03 19:02:40,354 Workload: LG08-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3619'.
+2024-04-03 19:02:40,429 Workload: LG09-PSM MAC address: 00:50:56:b6:20:59 connected state True.
+2024-04-03 19:02:40,435 Workload: LG09-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3621'.
+2024-04-03 19:02:40,476 Workload: LG10-PSM MAC address: 00:50:56:b6:aa:8b connected state True.
+2024-04-03 19:02:40,482 Workload: LG10-PSM is powered on and is running snapshot 'vim.vm.Snapshot:snapshot-3623'.
+2024-04-03 19:02:40,482 automation has detected 10 psm workloads!.
+2024-04-03 19:02:40,482 =======================================================================
