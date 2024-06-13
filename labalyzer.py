@@ -43,7 +43,10 @@ write_line(line)
 
 
 for switch in switch_list:
-    switch_version = find_version(switch, version, switch_user, switch_password)
+    try:
+        switch_version = find_version(switch, version, switch_user, switch_password)
+    except:
+        switch_version = 'SWITCH COMMUNICATION FAILURE!!!~!!!!!!!!!!!'
     line ='-------------------------------------------------------------------'
     print(line)
     write_line(line)
@@ -68,8 +71,8 @@ afc_password = 'admin'
 serno = open('serial.txt','w')
 cr = '\n'
 
-afc_list = ['10.250.201.11','10.250.202.11','10.250.203.11','10.250.204.11','10.250.205.11',\
-'10.250.206.11','10.250.207.11','10.250.208.11','10.250.209.11','10.250.210.11']
+afc_list = ['10.250.201.30','10.250.202.30','10.250.203.30','10.250.204.30','10.250.205.30',\
+'10.250.206.30','10.250.207.30','10.250.208.30','10.250.209.30','10.250.210.30']
 # afc_list = ['10.250.201.11']
 counter = 0
 c = ','
